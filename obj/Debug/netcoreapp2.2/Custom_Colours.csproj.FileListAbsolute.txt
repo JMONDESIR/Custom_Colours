@@ -1,0 +1,11 @@
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.csprojAssemblyReference.cache
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.csproj.CoreCompileInputs.cache
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.AssemblyInfoInputs.cache
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.AssemblyInfo.cs
+/Users/Joel/workspace/csharp/Custom_Colours/bin/Debug/netcoreapp2.2/Custom_Colours.deps.json
+/Users/Joel/workspace/csharp/Custom_Colours/bin/Debug/netcoreapp2.2/Custom_Colours.runtimeconfig.json
+/Users/Joel/workspace/csharp/Custom_Colours/bin/Debug/netcoreapp2.2/Custom_Colours.runtimeconfig.dev.json
+/Users/Joel/workspace/csharp/Custom_Colours/bin/Debug/netcoreapp2.2/Custom_Colours.dll
+/Users/Joel/workspace/csharp/Custom_Colours/bin/Debug/netcoreapp2.2/Custom_Colours.pdb
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.dll
+/Users/Joel/workspace/csharp/Custom_Colours/obj/Debug/netcoreapp2.2/Custom_Colours.pdb
